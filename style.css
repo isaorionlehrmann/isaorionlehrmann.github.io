@@ -12,6 +12,14 @@ body {
   border: 1px solid #731F1F;
 }
 
+p {
+    text-align: left;
+    font-size: 18px;  
+    color: #FFFFFF;  
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
 h1 {
     font-size: 60px;
     text-align: center;
@@ -21,29 +29,19 @@ h1 {
     text-shadow: 2px 2px 1px black;
 }
 
-p, li {
-    text-align: left;
-    font-size: 18px;  
-    color: #FFFFFF;  
-    line-height: 2;
-    letter-spacing: 1px;
-}
-
-.picture {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-a:link {
+a {
   color: #000000;
 }
 
 a:hover {
   color: #2E2B2B;
 
-  
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
 #red {
   color: red;
 }
