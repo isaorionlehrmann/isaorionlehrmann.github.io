@@ -1,6 +1,7 @@
 html {
 	font-size: 10px; 
 	font-family: 'Roboto', sans-serif;
+	font-color: white;
 }
 
 h1 {
@@ -34,13 +35,13 @@ a:hover {
 }
 
 html {
-  background-color: #F9F8EB;
+  background-color: #731F1F;
 }
 
 body {
   width: 1100px;
   margin: 0 auto;
-  background-color: #F9F8EB;
+  background-color: #731F1F;
   padding: 0 20px 20px 20px;
   border: 1px solid black;
 }
