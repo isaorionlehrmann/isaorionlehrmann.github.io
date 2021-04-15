@@ -11,7 +11,7 @@ h1 {
 }
 
 p, li {
-  text-align: center;
+  text-align: left;
     font-size: 18px;  
     font-color: white;  
     line-height: 2;
@@ -36,16 +36,12 @@ a:hover {
   color: whitesmoke;
 }
 
-html {
-  background-color: #731F1F;
-}
-
 body {
   width: 1100px;
   margin: 0 auto;
   background-color: #731F1F;
   padding: 0 20px 20px 20px;
-  border: 1px solid black;
+  border: 1px solid #731F1F;
 }
 
 h1 {
