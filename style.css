@@ -21,6 +21,10 @@ p, li {
   	margin-right: auto;
 }
 
+#RED {
+  color: red;
+}
+
 html {
   background-color: #F9F8EB;
 }
