@@ -25,6 +25,14 @@ p, li {
   color: red;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: whitesmoke;
+}
+
 html {
   background-color: #F9F8EB;
 }
