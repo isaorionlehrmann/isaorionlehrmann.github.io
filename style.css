@@ -21,18 +21,6 @@ p, li {
   	margin-right: auto;
 }
 
-#testing {
-	color: red;
-}
-
-a {
-	color: red;
-}
-
-a:hover {
-  color: green;
-}
-
 html {
   background-color: #F9F8EB;
 }
