@@ -47,12 +47,12 @@ p, li {
     text-decoration: underline;
 }
 
-a {
-  color: #000000;
-}
-
 a:hover {
   color: #FFFFFF;
+}
+
+a {
+  color: #000000;
 }
 
 body {
