@@ -4,16 +4,21 @@ html {
   background-color: #731F1F
 }
 
-h1 {
-    font-size: 60px;
-    color: white;
-    text-align: center;
+body {
+  width: 1100px;
+  margin: 0 auto;
+  background-color: #731F1F;
+  padding: 0 20px 20px 20px;
+  border: 1px solid #731F1F;
 }
 
-h2 {
-    font-size: 35px;
-    color: white;
+h1 {
+    font-size: 60px;
     text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    color: #FFFFFF;
+    text-shadow: 2px 2px 1px black;
 }
 
 p, li {
@@ -30,10 +35,19 @@ p, li {
     margin-right: auto;
 }
 
+
+a:link {
+  color: #000000;
+}
+
+a:hover {
+  color: #2E2B2B;
+
+  
 #red {
   color: red;
 }
-
+  
 #choices {
     font-size: 35px;
     color: white;
@@ -45,27 +59,5 @@ p, li {
     color: white;
     text-align: left;
     text-decoration: underline;
-}
-
-a:link {
-  color: #000000;
-}
-
-a:hover {
-  color: #2E2B2B;
-
-body {
-  width: 1100px;
-  margin: 0 auto;
-  background-color: #731F1F;
-  padding: 0 20px 20px 20px;
-  border: 1px solid #731F1F;
-}
-
-h1 {
-  margin: 0;
-  padding: 20px 0;    
-  color: #FFFFFF;
-  text-shadow: 2px 2px 1px black;
 }
 
