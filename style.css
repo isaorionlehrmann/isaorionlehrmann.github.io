@@ -1,25 +1,27 @@
 html {
-	font-size: 10px; 
-	font-family: 'Roboto', sans-serif;
-	font-color: white;
+  font-size: 10px; 
+  font-family: 'Roboto', sans-serif;
+  background-color: #731F1F
 }
 
 h1 {
-  	font-size: 60px;
-  	text-align: center;
+    font-size: 60px;
+    font-color: white;
+    text-align: center;
 }
 
 p, li {
-	text-align: center;
-  	font-size: 18px;    
-  	line-height: 2;
-  	letter-spacing: 1px;
+  text-align: center;
+    font-size: 18px;  
+    font-color: white;  
+    line-height: 2;
+    letter-spacing: 1px;
 }
 
 .picture {
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #RED {
@@ -52,3 +54,4 @@ h1 {
   color: #760D0F;
   text-shadow: 2px 2px 1px black;
 }
+
