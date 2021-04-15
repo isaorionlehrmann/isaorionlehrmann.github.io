@@ -6,20 +6,20 @@ html {
 
 h1 {
     font-size: 60px;
-    font-color: white;
+    color: #FFFFFF;
     text-align: center;
 }
 
 p, li {
-  text-align: left;
+    text-align: left;
     font-size: 18px;  
-    font-color: white;  
+    color: #FFFFFF;  
     line-height: 2;
     letter-spacing: 1px;
 }
 
 .picture {
-  display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
@@ -47,7 +47,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;    
-  color: white;
+  color: #FFFFFF;
   text-shadow: 2px 2px 1px black;
 }
 
