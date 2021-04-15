@@ -6,7 +6,13 @@ html {
 
 h1 {
     font-size: 60px;
-    color: #FFFFFF;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    color: white;
     text-align: center;
 }
 
@@ -24,8 +30,21 @@ p, li {
     margin-right: auto;
 }
 
-#RED {
+#red {
   color: red;
+}
+
+#choices {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+#sub-header {
+    font-size: 23px;
+    color: white;
+    text-align: left;
+    text-decoration: underline;
 }
 
 a {
